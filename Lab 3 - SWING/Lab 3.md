@@ -27,4 +27,5 @@
 1. Додайте ще одну кнопку - *Report*, яка має виводити у нижній частині вікна звіт за клієнтами такого ж виду, як у роботі номер 8 (див. CustomerReport). 
 2. Запустіть проект, впевніться, що все працює як очікувалось. Продемонстрируйте результат викладачеві.
 
+
 [![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
